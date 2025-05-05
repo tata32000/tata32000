@@ -4,5 +4,5 @@ I’m currently building a web application for a smart toilet monitoring system 
 -	💻 I’ve worked on projects involving React, Next.js, TypeScript, PostgreSQL, Electron, and AWS, focusing on clean, scalable code and intuitive user experiences.
 - 🛠️ Previously built internal tools like a desktop data simulator, AI chatbots, and implemented automated testing pipelines with Playwright and Jasmine.
 - 🌱 I’m currently diving deeper into C/C++ for operating systems and API development with Node.js.
--  🤝 Open to collaboration on full-stack or IoT-based projects.
+-  🤝 Open to collaboration on full-stack projects.
 - 📫 You can reach me at [nkittilakkananon@gmail.com](mailto:nkittilakkananon@gmail.com)
